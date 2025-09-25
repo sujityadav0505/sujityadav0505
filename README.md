@@ -1,6 +1,4 @@
-# Sujit Yadav | Data Analyst | Power Bi Developer
 
-**MBA Business Analytics @ COEP** | Power BI | SQL | Excel
 
 Data Analyst with strong technical skills and business acumen. Proven achiever with Guinness World Record and business competition wins. **Currently seeking full-time Data Analyst opportunities.**
 
