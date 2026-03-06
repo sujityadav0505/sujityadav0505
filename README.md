@@ -9,7 +9,7 @@ Data Analyst with strong technical skills and business acumen. Proven achiever w
 - **Data Visualization & Cleaning**
 
 ## 💼 Experience
-**Operations Manager** | RRR Enterprises (2020-2023)
+**Operations Manager** | RR Enterprises (2020-2021)
 - Optimized logistics and workforce management for 50+ employees
 
 **Data Analytics Intern** | Teachnook
